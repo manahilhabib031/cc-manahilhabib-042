@@ -1,1 +1,8 @@
 # cc-manahilhabib-042
+# assignment1
+
+**Student Name:** Manahil Habib  
+**Roll Number:** 042
+
+My first Gitea repo running inside Codespaces
+
