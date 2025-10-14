@@ -14,12 +14,10 @@ This line was updated remotely again.
 This line was updated locally at the same time.
 >>>>>>> fe90240 (Local conflicting change)
 
-
-
 This line was added locally.
 This line was added remotely for rebase test.
-
 This line was added locally for rebase test.
 
+This is a test update for the feature branch.
 
 
