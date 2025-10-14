@@ -6,3 +6,5 @@
 
 My first Gitea repo running inside Codespaces
 
+This line was added remotely from GitHub.
+
