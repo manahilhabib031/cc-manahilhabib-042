@@ -7,8 +7,12 @@
 
 My first Gitea repo running inside Codespaces
 
+<<<<<<< HEAD
 This line was updated remotely again.
 
+=======
+This line was updated locally at the same time.
+>>>>>>> fe90240 (Local conflicting change)
 
 
 
