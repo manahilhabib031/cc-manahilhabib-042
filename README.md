@@ -21,7 +21,7 @@ This line was added locally for rebase test.
 
 This is a test update for the feature branch.
 These lines are not committed yet.
-
-
 This is the first test line.
 This is the second test line.
+
+This is a small change for amend testing.
