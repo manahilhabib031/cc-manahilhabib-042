@@ -1,4 +1,7 @@
-textfiles/*
-DocFiles/
-*.log
-temp/
+#include<stdio.h>
+void main()
+{
+printf("hello");
+getch();
+
+}
