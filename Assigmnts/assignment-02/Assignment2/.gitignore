@@ -1,0 +1,23 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Variable files (may contain secrets)
+*.tfvars
+*.tfvars.json
+
+# Crash logs
+crash.log
+
+# SSH keys
+*.pem
+*.key
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
